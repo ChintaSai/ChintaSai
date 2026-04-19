@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm CHINTA SAIKIRAN
 
 I am a **Cloud & DevOps Engineer** passionate about building robust, scalable infrastructure and automating development workflows. I bridge the gap between software development and IT operations to ensure reliable, high-performance deployments.
 
