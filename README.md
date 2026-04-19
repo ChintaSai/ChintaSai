@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_URL" width="150" style="border-radius:50%;" />
+  <img src="IMG20240914154017.jpgL" width="150" style="border-radius:50%;" />
 </p>
 
 # 🚀 Sai Kiran | Cloud & DevOps Engineer
