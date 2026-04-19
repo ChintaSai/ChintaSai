@@ -8,19 +8,18 @@ I focus on bridging development and operations to deliver efficient, secure, and
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Cloud-based real-time projects & CI/CD pipelines**
-- 🌱 Learning **Advanced Kubernetes, DevSecOps & Multi-Cloud Architecture**
-- ☁️ Hands-on experience with **AWS & Azure**
+- 🔭 Currently working on **Cloud-based real-time projects **
+- ☁️ Hands-on experience with **AWS **
 - 🐧 Strong in **Linux Administration (RHEL / Ubuntu)**
 - ⚡ Interested in automation, infrastructure optimization & cost efficiency
-- 📫 Reach me: **[Add LinkedIn] | [Add Email]**
+- 📫 Reach me: **[https://www.linkedin.com/in/saikiran-chinta] | [saikiranchinta0@gmail.com]**
 
 ---
 
 ## 🛠 Technical Toolkit
 
 ### ☁️ Cloud & Infrastructure
-- **Cloud Platforms:** AWS (EC2, S3, Lambda, API Gateway, RDS, IAM, VPC), Azure  
+- **Cloud Platforms:** AWS (EC2, S3, Lambda, API Gateway, RDS, IAM, VPC)
 - **Infrastructure as Code:** Terraform  
 - **Containers & Orchestration:** Docker, Kubernetes  
 
@@ -91,7 +90,7 @@ I focus on bridging development and operations to deliver efficient, secure, and
 
 ## ⚡ Current Focus
 
-- Kubernetes (Advanced concepts)  
+- Kubernetes  
 - DevSecOps practices  
 - Building production-ready cloud architectures  
 
