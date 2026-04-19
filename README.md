@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="YOUR_IMAGE_URL" width="150" style="border-radius:50%;" />
+</p>
+
+# 🚀 Sai Kiran | Cloud & DevOps Engineer
 # Hi there! 👋 I'm Sai Kiran Chinta
 
 I am a **Cloud & DevOps Engineer** passionate about designing scalable infrastructure, automating workflows, and building reliable cloud-native applications.  
