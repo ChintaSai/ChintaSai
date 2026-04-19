@@ -82,9 +82,9 @@ I focus on bridging development and operations to deliver efficient, secure, and
 
 ## 📈 GitHub Stats
 
-![Sai Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Sai Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChintaSai&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChintaSai&layout=compact&theme=radical)
 
 ---
 
